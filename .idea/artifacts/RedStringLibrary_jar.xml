@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RedStringLibrary:jar">
+    <output-path>$PROJECT_DIR$/output/artifacts/RedStringLibrary_jar</output-path>
+    <root id="archive" name="RedStringLibrary.jar">
+      <element id="module-output" name="RedStringLibrary" />
+    </root>
+  </artifact>
+</component>

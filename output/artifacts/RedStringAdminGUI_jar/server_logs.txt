@@ -1,0 +1,5 @@
+31/01/2015 09:39:07: Admin server: Admin lobby : Log file was cleared!
+31/01/2015 09:39:07: Admin server: Admin lobby : Received InternalRequest from User Admin (administrator)!
+31/01/2015 09:39:07: Admin server: Admin lobby : ServerLogEvent was written to User Admin (administrator)!
+31/01/2015 09:39:07: Admin server: Admin lobby : ServerLogEvent was written to User Admin (administrator)!
+31/01/2015 09:39:26: Admin server: Admin lobby : Received internal command "-getlogfile" from User Admin (administrator)!

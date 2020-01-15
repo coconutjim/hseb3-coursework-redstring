@@ -1,0 +1,35 @@
+31/01/2015 10:16:08: Trying to get lobby list...
+31/01/2015 10:16:08: Trying to connect to the server...
+31/01/2015 10:16:08: Connected to server!
+31/01/2015 10:16:08: Got lobby list successfully!
+31/01/2015 10:16:08: Disconnected!
+31/01/2015 10:16:11: Trying to login to lobby: qweqwe...
+31/01/2015 10:16:11: Trying to connect to the server...
+31/01/2015 10:16:11: Connected to server!
+31/01/2015 10:16:11: qweqwe: Logged in to lobby: qweqwe!
+31/01/2015 10:16:11: qweqwe: The client was started!
+31/01/2015 10:16:11: qweqwe: SetUserListEvent was received!
+31/01/2015 10:16:11: qweqwe: NotificationEvent was received!
+31/01/2015 10:16:16: qweqwe: MessageEvent was written!
+31/01/2015 10:16:39: qweqwe: MessageEvent was received!
+31/01/2015 10:16:43: qweqwe: MessageEvent was written!
+31/01/2015 10:17:54: qweqwe: MessageEvent was written!
+31/01/2015 10:19:58: qweqwe: MessageEvent was received!
+31/01/2015 10:20:02: qweqwe: MessageEvent was written!
+31/01/2015 10:21:51: qweqwe: MessageEvent was written!
+31/01/2015 14:05:22: Trying to get lobby list...
+31/01/2015 14:05:22: Trying to connect to the server...
+31/01/2015 14:05:22: Connected to server!
+31/01/2015 14:05:22: Got lobby list successfully!
+31/01/2015 14:05:22: Disconnected!
+31/01/2015 14:05:32: Trying to create lobby: qweqwe...
+31/01/2015 14:05:32: Trying to connect to the server...
+31/01/2015 14:05:32: Connected to server!
+31/01/2015 14:05:32: Created lobby: qweqwe!
+31/01/2015 14:05:32: qweqwe: The client was started!
+31/01/2015 14:05:32: qweqwe: SetUserListEvent was received!
+31/01/2015 14:05:32: qweqwe: NotificationEvent was received!
+31/01/2015 14:05:34: qweqwe: GetUserListRequest was written!
+31/01/2015 14:05:34: qweqwe: GetBanListRequest was written!
+31/01/2015 14:05:34: qweqwe: SetUserListEvent was received!
+31/01/2015 14:05:35: qweqwe: SetBanListEvent was received!

@@ -1,0 +1,7 @@
+copy C:\Users\Lev\Dropbox\IW\all\redstring\output\artifacts\RedStringSingleGUI_jar\RedStringSingleGUI.jar C:\Users\Lev\Dropbox\IW\all\redstring\execs\RedStringSingleGUI.jar
+copy C:\Users\Lev\Dropbox\IW\all\redstring\output\artifacts\RedStringAdminGUI_jar\RedStringAdminGUI.jar C:\Users\Lev\Dropbox\IW\all\redstring\execs\RedStringAdminGUI.jar
+copy C:\Users\Lev\Dropbox\IW\all\redstring\output\artifacts\RedStringServer_jar\RedStringServer.jar C:\Users\Lev\Dropbox\IW\all\redstring\execs\RedStringServer.jar
+copy C:\Users\Lev\Dropbox\IW\all\redstring\output\artifacts\RedStringSpamBot_jar\RedStringSpamBot.jar C:\Users\Lev\Dropbox\IW\all\redstring\execs\RedStringSpamBot.jar
+copy C:\Users\Lev\Dropbox\IW\all\redstring\output\artifacts\RedStringLibrary_jar\RedStringLibrary.jar C:\Users\Lev\Dropbox\IW\all\redstring\RedStringPlugin\RedStringLibrary.jar 
+copy C:\Users\Lev\Dropbox\IW\all\redstring\output\artifacts\RedStringLibrary_jar\RedStringLibrary.jar C:\Users\Lev\Dropbox\IW\all\redstring\RedStringPlugin\release\modules\ext\RedStringLibrary.jar 
+copy C:\Users\Lev\Dropbox\IW\all\redstring\RedStringPlugin\build\org-lev-redstringplugin.nbm C:\Users\Lev\Dropbox\IW\all\redstring\execs\org-lev-redstringplugin.nbm

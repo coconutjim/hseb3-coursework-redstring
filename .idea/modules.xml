@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RedStringAdminGUI/RedStringAdminGUI.iml" filepath="$PROJECT_DIR$/RedStringAdminGUI/RedStringAdminGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedStringLibrary/RedStringLibrary.iml" filepath="$PROJECT_DIR$/RedStringLibrary/RedStringLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedStringServer/RedStringServer.iml" filepath="$PROJECT_DIR$/RedStringServer/RedStringServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedStringSingleGUI/RedStringSingleGUI.iml" filepath="$PROJECT_DIR$/RedStringSingleGUI/RedStringSingleGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedStringSpamBot/RedStringSpamBot.iml" filepath="$PROJECT_DIR$/RedStringSpamBot/RedStringSpamBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/redstring.iml" filepath="$PROJECT_DIR$/.idea/redstring.iml" />
+    </modules>
+  </component>
+</project>
+

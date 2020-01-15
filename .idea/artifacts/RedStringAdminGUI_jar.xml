@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RedStringAdminGUI:jar">
+    <output-path>$PROJECT_DIR$/output/artifacts/RedStringAdminGUI_jar</output-path>
+    <root id="archive" name="RedStringAdminGUI.jar">
+      <element id="module-output" name="RedStringAdminGUI" />
+      <element id="module-output" name="RedStringLibrary" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/miglayout-4.0-swing.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

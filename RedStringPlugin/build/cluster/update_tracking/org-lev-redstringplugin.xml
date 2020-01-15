@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.lev.redstringplugin">
+    <module_version install_time="1436307712415" last="true" origin="installer" specification_version="1.0">
+        <file crc="275784808" name="config/Modules/org-lev-redstringplugin.xml"/>
+        <file crc="2095634296" name="modules/ext/RedStringLibrary.jar"/>
+        <file crc="3599987006" name="modules/ext/main_library.jar"/>
+        <file crc="2248848985" name="modules/ext/miglayout-4.0-swing.jar"/>
+        <file crc="3539161524" name="modules/org-lev-redstringplugin.jar"/>
+    </module_version>
+</module>

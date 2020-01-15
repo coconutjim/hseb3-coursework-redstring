@@ -1,0 +1,42 @@
+31/01/2015 13:38:04: Trying to login admin server...
+31/01/2015 13:38:04: Trying to connect to the server...
+31/01/2015 13:38:04: Connected to server!
+31/01/2015 13:38:04: Logged in to admin server!
+31/01/2015 13:38:04: The client was started!
+31/01/2015 13:38:04: ServerLogEvent was received!
+31/01/2015 13:38:18: InternalRequest was written!
+31/01/2015 13:38:18: ServerLogEvent was received!
+31/01/2015 13:38:18: ServerLogEvent was received!
+31/01/2015 13:38:19: LogFileEvent was received!
+31/01/2015 13:38:35: InternalRequest was written!
+31/01/2015 13:38:35: ServerLogEvent was received!
+31/01/2015 13:38:36: LogFileEvent was received!
+31/01/2015 13:38:36: ServerLogEvent was received!
+31/01/2015 13:39:18: InternalRequest was written!
+31/01/2015 13:39:18: ServerLogEvent was received!
+31/01/2015 13:39:18: ServerLogEvent was received!
+31/01/2015 13:39:38: InternalRequest was written!
+31/01/2015 13:39:38: ServerLogEvent was received!
+31/01/2015 13:39:38: ServerLogEvent was received!
+31/01/2015 13:39:38: LogFileEvent was received!
+31/01/2015 13:54:13: ServerLogEvent was received!
+31/01/2015 13:54:13: ServerLogEvent was received!
+31/01/2015 13:54:13: ServerLogEvent was received!
+31/01/2015 13:54:13: ServerLogEvent was received!
+31/01/2015 13:54:13: ServerLogEvent was received!
+31/01/2015 13:54:13: ServerLogEvent was received!
+31/01/2015 13:54:13: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
+31/01/2015 13:54:19: ServerLogEvent was received!
